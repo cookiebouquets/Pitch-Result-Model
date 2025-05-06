@@ -9,3 +9,8 @@ We initially choose to use a Random Forest Classifier, given our intuition that 
 We could potentially use some sort of stepwise feature selection for our model, but we want to get an intuition for how the predictors are related and and choose a decent model initially.
 
 Our initial testing with the full feature set gives us an accuracy score of 71%.
+
+TODO:
+  1. Run PCA as a dimension reduction technique and rerun the classifier with the PCs as our predictors
+  2. Try other classification methods, i.e. Logistic Regression, SVM, KNN, etc. to see if we get a better accuracy score.
+  3. Try other CV methods, such as K-fold CV.
