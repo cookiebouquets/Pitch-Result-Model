@@ -2,7 +2,7 @@
 
 This jupyter notebook aims to accurately model the result of a pitch given the features "pitcher","batter","zone","p_throws","launch_speed","launch_angle","release_spin_rate","release_speed","release_pos_x", "release_pos_z", "hit_location", "plate_x" and "plate_z".
 
-The predictor is "Description", which is a categorical feature with 14 possible labels. 
+The predictor is "Description", which is a categorical feature with 15 possible labels. 
 
 We initially choose to use a Random Forest Classifier, given our intuition that the decision boundary between each class is nonlinear. We need to do more EDA to determine whether or not that was a wise choice.
 
