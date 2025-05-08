@@ -12,4 +12,4 @@ Our initial testing with the full feature set gives us an accuracy score of 71%.
 
 UPDATE 1: Our model improved to a Precision Average of 0.87, Accuracy Score of 0.82 and f1-Score of 0.84
 
-UPDATE 2: Our model after RandomizedSearchCV improved to a precision average of 0.89. All other metrics remain the same.
+UPDATE 2: Our model after RandomizedSearchCV improved to a Precision Average of 0.89. All other metrics remain the same.
