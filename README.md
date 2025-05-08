@@ -10,5 +10,5 @@ We could potentially use some sort of stepwise feature selection for our model, 
 
 Our initial testing with the full feature set gives us an accuracy score of 71%.
 
-TODO:
-  1. HyperParameter Tuning using GridSearchCV
+UPDATE 1: Our model improved to a Precision Average of 0.87, Accuracy Score of 0.82 and f1-Score of 0.84
+UPDATE 2: Our model after RandomizedSearchCV improved to a precision average of 0.89. All other metrics remain the same.
